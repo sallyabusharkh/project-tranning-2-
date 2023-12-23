@@ -1,4 +1,6 @@
-// ignore_for_file: prefer_const_constructors, prefer_const_literals_to_create_immutables
+// notes about files 
+// this code for app project i worked at the beginning of the tranning with flutter language
+// other files for part of web code writing in web language with React js laibrary ...  
 
 import 'package:english_words/english_words.dart';
 import 'package:flutter/material.dart';
